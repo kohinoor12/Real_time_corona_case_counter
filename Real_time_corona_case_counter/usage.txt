@@ -1,0 +1,11 @@
+Realtime Corona virus case counter
+
+* A project by Kohinoor Bharti
+
+# Get a stable internet connection.
+# Run corona_case_worldwide.py or Top30.py to get the data.
+# It will print the data and generate a bar graph of the present data.
+# It saves the data in tabular form in csv file which you can be opened using MS Excel.
+# It also save the graph image.
+
+
